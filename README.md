@@ -6,6 +6,6 @@ I'm **Faloye Samuel Oluwaseun** — an AI Automation Engineer building intellige
 - 🌱 I'm currently learning advanced AI agent architectures and workflow orchestration
 - 👯 I'm looking to collaborate on AI automation and workflow tooling projects
 - 💬 Ask me about n8n, AI agents, API integrations, and automation systems
-- 📫 Reach me at samuel@automatriksystems.com
+- 📫 Reach me at samuel@faloyesamuel.com
 - 🌐 Portfolio: [faloyesamuel.com](https://faloyesamuel.com)
 - 🏢 Founder, [Automatrik Systems] — AI automation for businesses
